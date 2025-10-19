@@ -1,0 +1,12 @@
+.my_news_form .btn {
+  margin-top: 20px;
+  border: none;
+  color: white !important;
+  /* Add !important to override other styles */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100% !important;
+  background-image: linear-gradient(to right, #D31027 0%, #EA384D 51%, #D31027 100%) !important;
+}
+
+
